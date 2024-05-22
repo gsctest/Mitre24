@@ -1783,6 +1783,28 @@
             "metadata": [],
             "links": [],
             "showSubtechniques": false
+        },
+        {
+            "techniqueID": "T1547",
+            "tactic": "persistence",
+            "score": 0,
+            "color": "#2e2e3f",
+            "comment": "",
+            "enabled": true,
+            "metadata": [],
+            "links": [],
+            "showSubtechniques": true
+        },
+        {
+            "techniqueID": "T1547",
+            "tactic": "privilege-escalation",
+            "score": 0,
+            "color": "#2e2e3f",
+            "comment": "",
+            "enabled": true,
+            "metadata": [],
+            "links": [],
+            "showSubtechniques": true
         }
     ],
     "gradient": {
