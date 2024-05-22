@@ -1067,7 +1067,7 @@
             "enabled": true,
             "metadata": [],
             "links": [],
-            "showSubtechniques": false
+            "showSubtechniques": true
         },
         {
             "techniqueID": "T1543",
@@ -1078,7 +1078,7 @@
             "enabled": true,
             "metadata": [],
             "links": [],
-            "showSubtechniques": false
+            "showSubtechniques": true
         },
         {
             "techniqueID": "T1069",
@@ -1089,7 +1089,7 @@
             "enabled": true,
             "metadata": [],
             "links": [],
-            "showSubtechniques": false
+            "showSubtechniques": true
         },
         {
             "techniqueID": "T1547.009",
@@ -1199,7 +1199,7 @@
             "enabled": true,
             "metadata": [],
             "links": [],
-            "showSubtechniques": false
+            "showSubtechniques": true
         },
         {
             "techniqueID": "T1053",
@@ -1210,7 +1210,7 @@
             "enabled": true,
             "metadata": [],
             "links": [],
-            "showSubtechniques": false
+            "showSubtechniques": true
         },
         {
             "techniqueID": "T1053",
@@ -1221,7 +1221,7 @@
             "enabled": true,
             "metadata": [],
             "links": [],
-            "showSubtechniques": false
+            "showSubtechniques": true
         },
         {
             "techniqueID": "T1140",
@@ -1353,7 +1353,7 @@
             "enabled": true,
             "metadata": [],
             "links": [],
-            "showSubtechniques": false
+            "showSubtechniques": true
         },
         {
             "techniqueID": "T1620",
@@ -1419,7 +1419,7 @@
             "enabled": true,
             "metadata": [],
             "links": [],
-            "showSubtechniques": false
+            "showSubtechniques": true
         },
         {
             "techniqueID": "T1491",
@@ -1430,7 +1430,7 @@
             "enabled": true,
             "metadata": [],
             "links": [],
-            "showSubtechniques": false
+            "showSubtechniques": true
         },
         {
             "techniqueID": "T1548",
@@ -1441,7 +1441,7 @@
             "enabled": true,
             "metadata": [],
             "links": [],
-            "showSubtechniques": false
+            "showSubtechniques": true
         },
         {
             "techniqueID": "T1548",
@@ -1452,7 +1452,7 @@
             "enabled": true,
             "metadata": [],
             "links": [],
-            "showSubtechniques": false
+            "showSubtechniques": true
         },
         {
             "techniqueID": "T1059",
@@ -1496,7 +1496,7 @@
             "enabled": true,
             "metadata": [],
             "links": [],
-            "showSubtechniques": false
+            "showSubtechniques": true
         },
         {
             "techniqueID": "T1497.002",
@@ -1639,7 +1639,7 @@
             "enabled": true,
             "metadata": [],
             "links": [],
-            "showSubtechniques": false
+            "showSubtechniques": true
         },
         {
             "techniqueID": "T1078",
@@ -1650,7 +1650,7 @@
             "enabled": true,
             "metadata": [],
             "links": [],
-            "showSubtechniques": false
+            "showSubtechniques": true
         },
         {
             "techniqueID": "T1078",
@@ -1661,7 +1661,7 @@
             "enabled": true,
             "metadata": [],
             "links": [],
-            "showSubtechniques": false
+            "showSubtechniques": true
         },
         {
             "techniqueID": "T1078",
@@ -1672,7 +1672,7 @@
             "enabled": true,
             "metadata": [],
             "links": [],
-            "showSubtechniques": false
+            "showSubtechniques": true
         },
         {
             "techniqueID": "T1027.008",
@@ -1760,7 +1760,7 @@
             "enabled": true,
             "metadata": [],
             "links": [],
-            "showSubtechniques": false
+            "showSubtechniques": true
         },
         {
             "techniqueID": "T1622",
