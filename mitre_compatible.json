@@ -1816,7 +1816,52 @@
         "minValue": 0,
         "maxValue": 100
     },
-    "legendItems": [],
+    "legendItems": [
+        {
+            "label": "No Coverage",
+            "color": "#000000"
+        },
+        {
+            "label": "Multiple",
+            "color": "#636363"
+        },
+        {
+            "label": "WS v1",
+            "color": "#c600c6"
+        },
+        {
+            "label": "WS v2",
+            "color": "#fd8d3c"
+        },
+        {
+            "label": "WS v3",
+            "color": "#e6550d"
+        },
+        {
+            "label": "WS v4",
+            "color": "#e60d0d"
+        },
+        {
+            "label": "WS v5",
+            "color": "#fce93b"
+        },
+        {
+            "label": "SW v1",
+            "color": "#31a354"
+        },
+        {
+            "label": "SW v2",
+            "color": "#c7e9c0"
+        },
+        {
+            "label": "Conti",
+            "color": "#c6dbef"
+        },
+        {
+            "label": "Prestige",
+            "color": "#fdd0a2"
+        }
+    ],
     "metadata": [],
     "links": [],
     "showTacticRowBackground": true,
